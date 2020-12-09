@@ -35,7 +35,7 @@ The temperature sensing is completed. Now for a display interface, we can either
 
 ### Simulation Diagram
 
-![]("project.png")
+![]("project.PNG")
 
 
 
