@@ -1,8 +1,8 @@
 # Electronics-Thermometer
 Proteus Simulation File For MicroElectronics Circuits course project (ELC)
-## Project topic: Electronics Thermometer  
-## Name: Abhijith Rajeev Menon
-## Roll Number: AM.EN.U4ELC19002
+## Project topic: Electronics Thermometer   ## Name: Abhijith Rajeev Menon    ## Roll Number: AM.EN.U4ELC19002
+
+
 
 ## Electronics Thermometer
 (a.k.a. Temperature Indicator)
@@ -33,10 +33,6 @@ For 32 degC the voltage will be 3.2x , for 46 degC the voltage will be 4.6x. So 
 The temperature sensing is completed. Now for a display interface, we can either pair it up with an Arduino component, or to make it more simpler I have designed it as a simple led green indication circuit. The circuit is as shown in the simulation Diagram. It uses simple resistor logic and follows a reference voltage for led indication. 
 
 
-
-
-
-
 ### Simulation Diagram
 
 
@@ -47,3 +43,12 @@ The temperature sensing is completed. Now for a display interface, we can either
 
 
 ### Results and Conclusion
+
+The outcome of the project was indication of temperature above a particular multiple
+of 10 degC and it was obtained successfully. The circuit successfully indicates the
+specified temperature and turns off when the temperature is below the temperature
+specified for each LED.
+
+The main aim of the project was to demonstrate the practical application of
+operational amplifiers across various devices and it is obtained successfully on
+completing the project.
