@@ -1,11 +1,11 @@
 # Electronics-Thermometer
 Proteus Simulation File For MicroElectronics Circuits course project (ELC)
-## Project topic: Electronics Thermometer   ## Name: Abhijith Rajeev Menon    ## Roll Number: AM.EN.U4ELC19002
+## Project topic: Electronics Thermometer   
+## Name: Abhijith Rajeev Menon    
+## Roll Number: AM.EN.U4ELC19002
 
+## Electronics Thermometer (a.k.a. Temperature Indicator)
 
-
-## Electronics Thermometer
-(a.k.a. Temperature Indicator)
 
 ### Introduction 
 
