@@ -1,17 +1,17 @@
 # Electronics-Thermometer
 Proteus Simulation File For MicroElectronics Circuits course project (ELC)
-##Project topic: Electronics Thermometer  
-##Name: Abhijith Rajeev Menon
-##Roll Number: AM.EN.U4ELC19002
+## Project topic: Electronics Thermometer  
+## Name: Abhijith Rajeev Menon
+## Roll Number: AM.EN.U4ELC19002
 
-##Electronics Thermometer
+## Electronics Thermometer
 (a.k.a. Temperature Indicator)
 
-###Introduction 
+### Introduction 
 
 Electronics thermometer is a substitute for the normal mercury thermometer, which is easy to handle as well as durable. The thermometer / indicator that I designed, is simulated on Proteus 8 simulator and works on the same principle of temperature sensing, amplifying and indicating.
 
-###Components Used
+### Components Used
 
 1)Operational amplifier - lm324 
 2)Temperature sensor - lm35 
@@ -20,7 +20,7 @@ Electronics thermometer is a substitute for the normal mercury thermometer, whic
 5)Voltage source 
 
 
-###Design
+### Design
 
 1) The main part of a electronics thermometer is the temperature sensor. So 	selecting a temperature sensor is the most important part of the design. In Proteus, 	lm35 is a precision centigrade temperature sensor which can detect temperature in 	a range of (-55 to 150 degC). 
 
@@ -37,7 +37,7 @@ The temperature sensing is completed. Now for a display interface, we can either
 
 
 
-###Simulation Diagram
+### Simulation Diagram
 
 
 
@@ -46,4 +46,4 @@ The temperature sensing is completed. Now for a display interface, we can either
 
 
 
-###Results and Conclusion
+### Results and Conclusion
